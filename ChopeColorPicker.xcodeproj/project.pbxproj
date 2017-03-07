@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		1D7B74EA1E6EEB1600B04530 /* ChopeColorPicker.h in Headers */ = {isa = PBXBuildFile; fileRef = 1D7B74E81E6EEB1600B04530 /* ChopeColorPicker.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3E11B0B61896993DBCBB366E /* ChopeColorPickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E11BB3B80499C6866538163 /* ChopeColorPickerViewController.swift */; };
+		3E11B581F20795F1CBC91A31 /* ChopeColorPicker.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 3E11B52B6D0B5F2884B9B4A5 /* ChopeColorPicker.podspec */; };
 		3E11BAA1C340AFFB3FDA4A64 /* ChopeColorButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E11B8FDB3508EDBEF76994A /* ChopeColorButton.swift */; };
 /* End PBXBuildFile section */
 
@@ -16,6 +17,7 @@
 		1D7B74E51E6EEB1600B04530 /* ChopeColorPicker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ChopeColorPicker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D7B74E81E6EEB1600B04530 /* ChopeColorPicker.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ChopeColorPicker.h; sourceTree = "<group>"; };
 		1D7B74E91E6EEB1600B04530 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3E11B52B6D0B5F2884B9B4A5 /* ChopeColorPicker.podspec */ = {isa = PBXFileReference; lastKnownFileType = file.podspec; path = ChopeColorPicker.podspec; sourceTree = "<group>"; };
 		3E11B8FDB3508EDBEF76994A /* ChopeColorButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChopeColorButton.swift; sourceTree = "<group>"; };
 		3E11BB3B80499C6866538163 /* ChopeColorPickerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChopeColorPickerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -37,6 +39,7 @@
 				1D7B74E71E6EEB1600B04530 /* ChopeColorPicker */,
 				1D7B74E61E6EEB1600B04530 /* Products */,
 				3E11BDB10640AB2F5834913A /* Classes */,
+				3E11B52B6D0B5F2884B9B4A5 /* ChopeColorPicker.podspec */,
 			);
 			sourceTree = "<group>";
 		};
@@ -136,6 +139,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3E11B581F20795F1CBC91A31 /* ChopeColorPicker.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
