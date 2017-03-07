@@ -4,6 +4,7 @@ Pod::Spec.new do |s|
   s.summary      = "ColorPicker for selecting color"
   s.description  = <<-DESC
   ColorPicker for iOS
+  Touch and select color in picker
                    DESC
   s.homepage     = "https://github.com/yoonhg84/ChopeColorPicker"
   s.license      = "MIT"
