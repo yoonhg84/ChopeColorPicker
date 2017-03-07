@@ -146,6 +146,11 @@
 			isa = PBXProject;
 			attributes = {
 				ORGANIZATIONNAME = Chope;
+				TargetAttributes = {
+					3E11B43AB818BED88C82B6C4 = {
+						DevelopmentTeam = JKB83V3G9Q;
+					};
+				};
 			};
 			buildConfigurationList = 3E11B72AE2EE8A5469ED3CE8 /* Build configuration list for PBXProject "Example" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -244,6 +249,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = JKB83V3G9Q;
 				INFOPLIST_FILE = Example/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = net.chopestory.Example;
@@ -299,6 +305,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = JKB83V3G9Q;
 				INFOPLIST_FILE = Example/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = net.chopestory.Example;

@@ -7,8 +7,9 @@ Pod::Spec.new do |s|
   Touch and select color in picker
                    DESC
   s.homepage     = "https://github.com/yoonhg84/ChopeColorPicker"
-  s.license      = "MIT"
-  s.author             = { "Chope" => "yoonhg2002@gmail.com" }
+  #s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
+  s.license      = { :type => 'MIT', :file => 'LICENSE' }
+  s.author       = { "Chope" => "yoonhg2002@gmail.com" }
   s.platform     = :ios, "10.0"
   s.source       = { :git => "https://github.com/yoonhg84/ChopeColorPicker.git", :tag => "#{s.version}" }
   s.source_files  = "Classes", "Classes/**/*.swift"
